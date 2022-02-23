@@ -3,7 +3,7 @@ module github.com/aquasecurity/trivy
 go 1.16
 
 require (
-	github.com/CycloneDX/cyclonedx-go v0.4.0
+	github.com/CycloneDX/cyclonedx-go v0.5.0
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible
 	github.com/Microsoft/hcsshim v0.9.2 // indirect

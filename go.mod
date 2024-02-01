@@ -23,7 +23,7 @@ require (
 	github.com/aquasecurity/trivy-java-db v0.0.0-20230130194604-b1b12e703cf9
 	github.com/aquasecurity/trivy-kubernetes v0.3.1-0.20230124152305-a266786d8ded
 	github.com/aws/aws-sdk-go v1.44.171
-	github.com/aws/aws-sdk-go-v2 v1.17.3
+	github.com/aws/aws-sdk-go-v2 v1.24.1
 	github.com/aws/aws-sdk-go-v2/config v1.18.3
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.63.1
 	github.com/aws/aws-sdk-go-v2/service/sts v1.18.0
@@ -63,7 +63,7 @@ require (
 	github.com/package-url/packageurl-go v0.1.1-0.20220428063043-89078438f170
 	github.com/samber/lo v1.36.0
 	github.com/secure-systems-lab/go-securesystemslib v0.4.0
-	github.com/sigstore/rekor v1.0.1
+	github.com/sigstore/rekor v0.2.0
 	github.com/sosedoff/gitkit v0.3.0
 	github.com/spf13/cobra v1.6.0
 	github.com/spf13/pflag v1.0.5
@@ -178,7 +178,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.12.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.14.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/workspaces v1.23.0 // indirect
-	github.com/aws/smithy-go v1.13.5 // indirect
+	github.com/aws/smithy-go v1.19.0 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bgentry/go-netrc v0.0.0-20140422174119-9fd32a8b3d3d // indirect
 	github.com/bmatcuk/doublestar v1.3.4 // indirect

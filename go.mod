@@ -50,7 +50,7 @@ require (
 	github.com/knqyf263/go-deb-version v0.0.0-20190517075300-09fca494f03d
 	github.com/knqyf263/go-rpm-version v0.0.0-20220614171824-631e686d1075
 	github.com/kylelemons/godebug v1.1.0
-	github.com/mailru/easyjson v0.7.7
+	github.com/mailru/easyjson v0.9.0
 	github.com/masahiro331/go-disk v0.0.0-20220919035250-c8da316f91ac
 	github.com/masahiro331/go-ebs-file v0.0.0-20221225061409-5ef263bb2cc3
 	github.com/masahiro331/go-ext4-filesystem v0.0.0-20221225060520-c150f5eacfe1
@@ -63,7 +63,7 @@ require (
 	github.com/package-url/packageurl-go v0.1.1-0.20220428063043-89078438f170
 	github.com/samber/lo v1.36.0
 	github.com/secure-systems-lab/go-securesystemslib v0.4.0
-	github.com/sigstore/rekor v1.0.1
+	github.com/sigstore/rekor v0.2.0
 	github.com/sosedoff/gitkit v0.3.0
 	github.com/spf13/cobra v1.6.0
 	github.com/spf13/pflag v1.0.5

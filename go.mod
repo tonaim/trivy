@@ -120,7 +120,7 @@ require (
 	golang.org/x/net v0.39.0
 	golang.org/x/sync v0.14.0
 	golang.org/x/term v0.31.0
-	golang.org/x/text v0.24.0
+	golang.org/x/text v0.25.0
 	golang.org/x/vuln v1.1.4
 	golang.org/x/xerrors v0.0.0-20240716161551-93cc26a95ae9
 	google.golang.org/protobuf v1.36.6

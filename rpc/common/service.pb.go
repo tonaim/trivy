@@ -2951,31 +2951,29 @@ var file_rpc_common_service_proto_depIdxs = []int32{
 	30, // 16: trivy.common.Vulnerability.cvss:type_name -> trivy.common.Vulnerability.CvssEntry
 	32, // 17: trivy.common.Vulnerability.published_date:type_name -> google.protobuf.Timestamp
 	32, // 18: trivy.common.Vulnerability.last_modified_date:type_name -> google.protobuf.Timestamp
-	33, // 19: trivy.common.Vulnerability.custom_advisory_data:type_name -> google.protobuf.Value
-	33, // 20: trivy.common.Vulnerability.custom_vuln_data:type_name -> google.protobuf.Value
-	15, // 21: trivy.common.Vulnerability.data_source:type_name -> trivy.common.DataSource
-	31, // 22: trivy.common.Vulnerability.vendor_severity:type_name -> trivy.common.Vulnerability.VendorSeverityEntry
-	21, // 23: trivy.common.CauseMetadata.code:type_name -> trivy.common.Code
-	22, // 24: trivy.common.CauseMetadata.rendered_cause:type_name -> trivy.common.RenderedCause
-	16, // 25: trivy.common.CustomResource.layer:type_name -> trivy.common.Layer
-	33, // 26: trivy.common.CustomResource.data:type_name -> google.protobuf.Value
-	20, // 27: trivy.common.Code.lines:type_name -> trivy.common.Line
-	21, // 28: trivy.common.SecretFinding.code:type_name -> trivy.common.Code
-	16, // 29: trivy.common.SecretFinding.layer:type_name -> trivy.common.Layer
-	23, // 30: trivy.common.Secret.findings:type_name -> trivy.common.SecretFinding
-	0,  // 31: trivy.common.DetectedLicense.severity:type_name -> trivy.common.Severity
-	1,  // 32: trivy.common.DetectedLicense.category:type_name -> trivy.common.LicenseCategory.Enum
-	2,  // 33: trivy.common.LicenseFile.license_type:type_name -> trivy.common.LicenseType.Enum
-	27, // 34: trivy.common.LicenseFile.fingings:type_name -> trivy.common.LicenseFinding
-	16, // 35: trivy.common.LicenseFile.layer:type_name -> trivy.common.Layer
-	1,  // 36: trivy.common.LicenseFinding.category:type_name -> trivy.common.LicenseCategory.Enum
-	18, // 37: trivy.common.Vulnerability.CvssEntry.value:type_name -> trivy.common.CVSS
-	0,  // 38: trivy.common.Vulnerability.VendorSeverityEntry.value:type_name -> trivy.common.Severity
-	39, // [39:39] is the sub-list for method output_type
-	39, // [39:39] is the sub-list for method input_type
-	39, // [39:39] is the sub-list for extension type_name
-	39, // [39:39] is the sub-list for extension extendee
-	0,  // [0:39] is the sub-list for field type_name
+	15, // 19: trivy.common.Vulnerability.data_source:type_name -> trivy.common.DataSource
+	31, // 20: trivy.common.Vulnerability.vendor_severity:type_name -> trivy.common.Vulnerability.VendorSeverityEntry
+	21, // 21: trivy.common.CauseMetadata.code:type_name -> trivy.common.Code
+	22, // 22: trivy.common.CauseMetadata.rendered_cause:type_name -> trivy.common.RenderedCause
+	16, // 23: trivy.common.CustomResource.layer:type_name -> trivy.common.Layer
+	33, // 24: trivy.common.CustomResource.data:type_name -> google.protobuf.Value
+	20, // 25: trivy.common.Code.lines:type_name -> trivy.common.Line
+	21, // 26: trivy.common.SecretFinding.code:type_name -> trivy.common.Code
+	16, // 27: trivy.common.SecretFinding.layer:type_name -> trivy.common.Layer
+	23, // 28: trivy.common.Secret.findings:type_name -> trivy.common.SecretFinding
+	0,  // 29: trivy.common.DetectedLicense.severity:type_name -> trivy.common.Severity
+	1,  // 30: trivy.common.DetectedLicense.category:type_name -> trivy.common.LicenseCategory.Enum
+	2,  // 31: trivy.common.LicenseFile.license_type:type_name -> trivy.common.LicenseType.Enum
+	27, // 32: trivy.common.LicenseFile.fingings:type_name -> trivy.common.LicenseFinding
+	16, // 33: trivy.common.LicenseFile.layer:type_name -> trivy.common.Layer
+	1,  // 34: trivy.common.LicenseFinding.category:type_name -> trivy.common.LicenseCategory.Enum
+	18, // 35: trivy.common.Vulnerability.CvssEntry.value:type_name -> trivy.common.CVSS
+	0,  // 36: trivy.common.Vulnerability.VendorSeverityEntry.value:type_name -> trivy.common.Severity
+	37, // [37:37] is the sub-list for method output_type
+	37, // [37:37] is the sub-list for method input_type
+	37, // [37:37] is the sub-list for extension type_name
+	37, // [37:37] is the sub-list for extension extendee
+	0,  // [0:37] is the sub-list for field type_name
 }
 
 func init() { file_rpc_common_service_proto_init() }

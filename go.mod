@@ -38,11 +38,11 @@ require (
 	github.com/bmatcuk/doublestar/v4 v4.8.1
 	github.com/cenkalti/backoff/v4 v4.3.0
 	github.com/cheggaaa/pb/v3 v3.1.7
-	github.com/containerd/containerd/v2 v2.1.1
+	github.com/containerd/containerd/v2 v2.1.3
 	github.com/containerd/platforms v1.0.0-rc.1
 	github.com/distribution/reference v0.6.0
-	github.com/docker/cli v28.1.1+incompatible
-	github.com/docker/docker v28.1.1+incompatible
+	github.com/docker/cli v28.3.1+incompatible
+	github.com/docker/docker v28.3.1+incompatible
 	github.com/docker/go-connections v0.5.0
 	github.com/docker/go-units v0.5.0
 	github.com/fatih/color v1.18.0
@@ -84,7 +84,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mitchellh/hashstructure/v2 v2.0.2
 	github.com/mitchellh/mapstructure v1.5.0
-	github.com/moby/buildkit v0.21.1
+	github.com/moby/buildkit v0.23.2
 	github.com/open-policy-agent/opa v1.4.2
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.1
@@ -376,10 +376,10 @@ require (
 	github.com/tklauser/go-sysconf v0.3.13 // indirect
 	github.com/tklauser/numcpus v0.7.0 // indirect
 	github.com/tonglil/versioning v0.0.0-20170205083536-8b2a4334bd1d // indirect
-	github.com/tonistiigi/go-csvvalue v0.0.0-20240710180619-ddb21b71c0b4 // indirect
+	github.com/tonistiigi/go-csvvalue v0.0.0-20240814133006-030d3b2625d0 // indirect
 	github.com/transparency-dev/merkle v0.0.2 // indirect
 	github.com/ulikunitz/xz v0.5.12 // indirect
-	github.com/vbatts/tar-split v0.11.6 // indirect
+	github.com/vbatts/tar-split v0.12.1 // indirect
 	github.com/vmihailenco/msgpack/v5 v5.4.1 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
@@ -414,7 +414,7 @@ require (
 	google.golang.org/genproto v0.0.0-20250303144028-a0af3efb3deb // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20250303144028-a0af3efb3deb // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250313205543-e70fdf4c4cb4 // indirect
-	google.golang.org/grpc v1.72.0 // indirect
+	google.golang.org/grpc v1.72.2 // indirect
 	gopkg.in/cheggaaa/pb.v1 v1.0.28 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
